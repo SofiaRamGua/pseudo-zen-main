@@ -61,3 +61,12 @@ button:focus {
 .button-part {
     padding: 100px;
 }
+input:hover { 
+
+
+}
+input:focus { 
+   border-color:rgb(224, 73, 73);
+   color: rgb(224, 73, 73);
+}
+input: disabled
