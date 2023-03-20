@@ -28,13 +28,9 @@ p {
     width: 600px;
     font-size: 20px;
 }
-@media screen and (max-width:660px){
-    p{
-        width: 80%;
-    }
-    
-}.primary-buttons {
-    margin-top: 200px;
+
+.primary-buttons {
+    margin-top: 100px;
 
 }
 .primary-buttons button {
@@ -95,27 +91,13 @@ input:disabled {
 
 
 }
-.save-b {
-    height: 90px;
-    width: 90px;
-    background-color: #FFFAF2;
-    border-radius: 50%;
-    border-color: #8DB83D;
-    border: 2px solid #8DB83D;
-    margin: 10px;
-}
-.form1 {
-    padding: 20px;
-}
 textarea {
     width: 400px;
     height: 100px;
 }
 
-form .save-c {
+form {
     padding: 40px;
-
-
 }
 
 footer {
